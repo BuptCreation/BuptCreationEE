@@ -73,10 +73,9 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/智慧英语EE版/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/智慧英语EE版/out" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
